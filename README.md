@@ -13,3 +13,5 @@ git remote -v
 git push -u origin <branch-name>
 
 git branch -M main
+
+git pull origin main --allow-unrelated-histories
