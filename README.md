@@ -10,7 +10,7 @@ git remote add origin <url>
 
 git remote -v
 
-git push -u origin <branch-name>
+git push -f origin <branch-name>
 
 git branch -M main
 
