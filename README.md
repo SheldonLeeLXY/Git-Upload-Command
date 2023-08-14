@@ -6,7 +6,7 @@ git add .
 
 git commit -m ‘commit message’
 
-git remote add <url>
+git remote add origin <url>
 
 git remote -v
 
