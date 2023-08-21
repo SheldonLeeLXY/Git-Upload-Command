@@ -6,11 +6,11 @@ git add .
 
 git commit -m ‘commit message’
 
-git remote add origin <url>
+git remote add origin url
 
 git remote -v
 
-git push -f origin <branch-name>
+git push -f origin main
 
 git branch -M main
 
